@@ -21,5 +21,5 @@
 ## 著者・参考文献
 - **著者**: 久保隆宏
 - **書籍**: [Pythonで学ぶ強化学習[改訂第2版]](https://www.kspub.co.jp/book/detail/5142981.html) 
-- **git**: [Github](https://github.com/icoxfog417/baby-steps-of-rl-ja)
+- **Github**: [baby-steps-of-rl-ja](https://github.com/icoxfog417/baby-steps-of-rl-ja)
 
