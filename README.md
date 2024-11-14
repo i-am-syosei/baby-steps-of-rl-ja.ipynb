@@ -1,7 +1,3 @@
-以下は、このプロジェクトのREADMEの概要として提案できる内容です。
-
----
-
 # 強化学習の実践例 - Pythonで学ぶ強化学習[改訂第2版]（久保隆宏著）
 
 このリポジトリは、久保隆宏著『Pythonで学ぶ強化学習[改訂第2版]』に基づくPythonのコード例を実行可能なJupyter Notebook形式に変換したものです。各コード例には詳細なコメントが追加されており、強化学習の基本概念から実践までをわかりやすく学べるよう工夫しています。
@@ -25,8 +21,5 @@
 ## 著者・参考文献
 - **著者**: 久保隆宏
 - **書籍**: [Pythonで学ぶ強化学習[改訂第2版]](https://www.kspub.co.jp/book/detail/5142981.html) 
-- **git**: [Github](https://github.com/icoxfog417/baby-steps-of-rl-ja)
+- **Github**: [baby-steps-of-rl-ja](https://github.com/icoxfog417/baby-steps-of-rl-ja)
 
----
-
-このREADMEは、リポジトリの目的と使い方をわかりやすく伝える内容を意識しています。
